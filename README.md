@@ -7,3 +7,4 @@ Gradient Descent: [Blog1](https://www.ibm.com/cloud/learn/gradient-descent) | [B
 **Questions:**
 [Link1](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/) | [Link2](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/) [Link3](https://towardsdatascience.com/how-to-build-a-movie-recommendation-system-67e321339109) | [Link4](https://github.com/mGalarnyk/datasciencecoursera/blob/master/Stanford_Machine_Learning/Week2/week2quiz1LinearRegressionMultipleVariables.md) | 
 [PDF](https://emtiyaz.github.io/teaching/waseda18_ml/sample_exam_answers.pdf)
+[Blog_1](https://towardsdatascience.com/classification-basics-walk-through-with-the-iris-data-set-d46b0331bf82)
